@@ -1,2 +1,2 @@
-# CompanyNetworkusingIPv6andIoT
-Project for ECEN421
+# Company Network using IPv6 and IoT
+
